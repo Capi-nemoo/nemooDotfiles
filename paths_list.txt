@@ -1,0 +1,7 @@
+Encontrado: /home/nemoolnvo/.config/btop/
+Encontrado: /home/nemoolnvo/.config/conky/conky.conf
+Encontrado: /home/nemoolnvo/.config/i3/config
+Encontrado: /home/nemoolnvo/.config/nvim/init.lua
+Encontrado: /home/nemoolnvo/.config/obsidian/
+Encontrado: /home/nemoolnvo/.config/picom/picom.conf
+Encontrado: /home/nemoolnvo/.config/rofi/config.rasi
